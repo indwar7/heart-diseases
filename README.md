@@ -36,13 +36,6 @@ Maximum Heart Rate Achieved
 
 Exercise-Induced Angina
 
-ST Depression Induced by Exercise
-
-Number of Major Vessels Colored by Fluoroscopy
-
-Thalassemia
-
-The target variable indicates the presence or absence of heart disease.
 
 Tools and Technologies
 
@@ -75,15 +68,8 @@ Highlighted the most significant factors affecting heart disease.
 
 Analyzed how different features contribute to the likelihood of heart disease.
 
-Results
 
-Key insights derived from the analysis include:
-
-[Insert findings, e.g., "Age and cholesterol levels show a strong correlation with heart disease."]
-
-[Insert another finding, e.g., "Patients with certain chest pain types have a higher likelihood of heart disease."]
-
-Visualizations
+Visualizations---
 
 The project includes several key visualizations:
 
@@ -93,12 +79,12 @@ Boxplots and histograms to examine the distribution of features.
 
 Scatterplots to analyze feature interactions.
 
-Challenges
+Challenges---
 
 Handling missing data and outliers.
 
 Balancing the dataset to address class imbalance (if applicable).
 
-Conclusion
+Conclusion---
 
 This analysis provides actionable insights into the diagnosis of heart disease. By identifying critical factors and their influence, the project supports healthcare professionals in making informed decisions. Future work could involve building a predictive model or applying advanced machine learning techniques to enhance diagnostic accuracy.
